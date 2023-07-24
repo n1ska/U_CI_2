@@ -6,7 +6,7 @@
       "type":"object"
     },
     "data":{
-      "type":"object"
+      "type":"string"
     },
     "files":{
       "type":"object"

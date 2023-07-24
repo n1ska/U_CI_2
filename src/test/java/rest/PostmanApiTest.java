@@ -14,7 +14,7 @@ class PostmanApiTest {
                 .when()
                 .post("/post")
                 .then()
-                .statusCode(200).log().all()
+                .statusCode(200)
                 .body(matchesJsonSchemaInClasspath("postman.schema.json"))
         ;
     }
