@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mj1cw1homw9nivc4?svg=true)](https://ci.appveyor.com/project/n1ska/u-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/9g5rffafoufl92ww/branch/main?svg=true)](https://ci.appveyor.com/project/n1ska/u-ci-2/branch/main)
